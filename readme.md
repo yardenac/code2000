@@ -1,3 +1,3 @@
 This was a mirror for the classic fonts [Code2000, Code2001 & Code2002](https://en.wikipedia.org/wiki/Code2000). For almost a decade, these fonts were unavailable except [via the Internet Archive](https://web.archive.org/web/20101122141939/http://code2000.net/). I had been mirroring them here, in order to continue maintaining their Arch Linux packages ([0](https://aur.archlinux.org/packages/ttf-code2000/) [1](https://aur.archlinux.org/packages/ttf-code2001/) [2](https://aur.archlinux.org/packages/ttf-code2002))
 
-The original creator has now revived his website at [code2000.com](https://www.code2001.com/), and I encourage you to visit there instead.
+The original creator has now revived his website at [code2001.com](https://www.code2001.com/), and I encourage you to visit there instead.
